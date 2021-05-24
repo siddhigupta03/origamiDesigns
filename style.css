@@ -1,0 +1,40 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body{
+    border: 20px solid;
+}
+h1{
+    color: blueviolet;
+}
+h3{
+    -ms-text-size-adjust: inherit;
+}
+p {
+    border: solid;
+    text-orientation: sideways;
+    font-size: 30px;
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.item, img{
+    border: 2px solid black;
+    border: radius 50px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    background-color: bisque;
+    text-align: center;
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #B7A5DF;
+	}
